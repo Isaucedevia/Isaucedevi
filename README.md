@@ -1,7 +1,7 @@
 # Isaucedevi
 # Hola 👋
 
-Soy estudiante de programación/ingeniería de sistemas/etc...
+Soy estudiante de programación/ingeniería de electronica/etc...
 
 ## Tecnologías que estoy aprendiendo
 
