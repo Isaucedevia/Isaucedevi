@@ -11,4 +11,5 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 
 [Mi GitHub](https://github.com/Isaucedevia)
 
-![Mi Linkedin](https://github.com/Isaucedevia/Isaucedevi/blob/main/isabella%20foto%201.png?raw=true)
+<img src="https://github.com/Isaucedevia/Isaucedevi/blob/main/isabella%20foto%201.png?raw=true" width="200">
+
